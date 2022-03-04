@@ -155,6 +155,10 @@ section {
         width: 70%;
         margin-top: 30px;
     }
+
+    .col-three {
+        padding-bottom: 20px;
+    }
 }
 
 @media (max-width: 766px) {
@@ -169,7 +173,7 @@ section {
     }
 }
 
-@media (max-height: 800px) {
+@media (max-height: 850px) {
     section {
         height: 380px;
     }
@@ -179,7 +183,7 @@ section {
     }
 
     .info {
-        height: 410px;
+        height: 450px;
     }
 }
 
